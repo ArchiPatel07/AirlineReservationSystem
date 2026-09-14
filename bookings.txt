@@ -1,7 +1,1 @@
-Booking ID: B1 | Passenger: timir | Flight: AI202 | Seat: 16 | Status: CONFIRMED
-Booking ID: B2 | Passenger: aru | Flight: AI101 | Seat: 15 | Status: CONFIRMED
-Booking ID: B3 | Passenger: john | Flight: AI202 | Seat: 14 | Status: CONFIRMED
-Booking ID: B4 | Passenger: dia | Flight: AI101 | Seat: 4| Status: CONFIRMED
-Booking ID: B5 | Passenger: jeel | Flight: AI202 | Seat: 7 | Status: CONFIRMED
-Booking ID: B6 | Passenger: raghu | Flight: AI101 | Seat: 19 | Status: CONFIRMED
-Booking ID: B7 | Passenger: neya | Flight: AI202 | Seat: 9 | Status: CONFIRMED
+Booking ID: B1 | Passenger: Bhumika | Flight: AI202 | Seat: 14 | Status: CONFIRMED
